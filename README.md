@@ -1,4 +1,4 @@
-# python-SQL-project
+# ETL project
 
 ### Project Title: Sales Data Analytics
 
